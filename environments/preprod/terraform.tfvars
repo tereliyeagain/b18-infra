@@ -14,6 +14,10 @@ rgs = {
     location = "East US"
   }
   rg4 = {
+    name     = "rg-takla"
+    location = "East US"
+  }
+  rg5 = {
     name     = "rg-chand"
     location = "East US"
   }  
